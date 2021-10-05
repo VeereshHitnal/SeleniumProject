@@ -1,0 +1,8 @@
+url http://localhost:8888/
+browser chrome
+username admin
+password admin
+timeout 10
+organization indian_overseas
+success Organization Information
+
